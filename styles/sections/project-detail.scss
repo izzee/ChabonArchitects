@@ -1,0 +1,152 @@
+.project-page {
+  @include bp($sm){
+    nav {
+      border-bottom: 0;
+    }
+  }
+  @include bp-max($sm) {
+    .section-header {
+      background-color: $white;
+    }
+  }
+}
+
+.project-detail {
+  position: sticky;
+  top: 312px;
+
+  .project-hero {
+    width: 100%;
+    z-index: -1;
+    background-color: $white;
+    margin-top: 16px;
+    
+    @include bp($sm) {
+      padding-top: 16px;
+      margin-top: 0;
+      position: sticky;
+      top: 112px;
+      border-top: 1px solid black;
+      max-height: calc(100vh - 256px);
+    }
+
+    img {
+      width: 100%;
+      object-fit: cover;
+      object-position: center;
+    }
+  }
+
+  .project-info {
+    grid-template-columns: 1fr auto;
+    padding-bottom: 32px;
+    background-color: $white;
+    
+    > * {
+      background-color: $white;
+      border-color: transparent;
+      transition: transform .5s, opacity .5s, color .25s;
+    }
+
+    &.top {
+      background-color: transparent;
+      @include bp($sm){
+        .project-description, .img-caption {
+          background-color: transparent;
+          color: transparent;
+          transform: translateY(-100%);
+          opacity: 0;
+          z-index: -1;
+        }
+        .spacer,
+        .project-title{
+          border-bottom: 1px solid black;
+          box-shadow: 0 16px 0 $white;
+          transition: border-color 2s;
+        }
+        .spacer {
+          border-right: 1px solid black;
+        }
+      }
+    }
+    @include bp($sm) {
+      top: 0px;
+      position: sticky;
+      display: grid;
+    }
+  }
+  
+  .project-title { 
+    padding: 16px 0;
+    @include bp($sm){
+      padding: 32px 0;
+      z-index: 300;
+      padding-left: 40px;
+    }
+  }
+  
+  .img-caption {
+    grid-area: 2 / 1;
+    font-family: proxima-nova-condensed, sans-serif; 
+    line-height: 1.2;
+    @include bp($sm) {
+      width: 144px;
+    }
+
+  }
+  
+  .project-description { 
+    font-family: proxima-nova-condensed, sans-serif; 
+    @include bp-max($sm){
+      margin-top: 16px;
+    }
+    @include bp($sm) {
+      padding-left: 40px;
+    }
+  } 
+
+  .img-caption,
+  .project-description {
+    @include bp($sm){
+      line-height: 1.5;
+    }
+  }
+
+  .project-images{
+    background-color: $white;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 8px;
+    padding-top: 16px;
+    @include bp($xs) {
+      grid-gap: 16px;
+    }
+    @include bp($sm) {
+      padding-top: 160px;
+    }
+    @include bp-max($sm){
+      z-index: 500;
+      position: relative;
+    }
+
+    img {
+      object-fit: contain;
+      max-width: 100%;
+
+      &.full {
+        grid-column-start: 1;
+        grid-column-end: 3;
+      }
+
+      &.half {
+        @include bp-max($sm) {
+          grid-column-start: 1;
+          grid-column-end: 3;
+        }
+      }
+    }
+    
+  }
+
+  
+}

@@ -1,0 +1,39 @@
+body {
+  background-color: $white;
+}
+
+img {
+  display: block;
+}
+
+nav a.active,
+nav a:hover {
+  color: #5B98CA;
+}
+
+address{
+  font-style: normal;
+}
+
+section{
+  padding: 0 8px;
+  @include bp($xs) {
+    padding: 0 16px;
+  }
+  @include bp($sm){
+    padding: 0 32px;
+  }
+  margin: auto;
+  max-width: 1440px;
+}
+
+.section-header {
+  position: sticky;
+  top: 80px;
+  padding-top: 16px;
+  background-color: $white;
+  @include bp($sm) {
+    top: 112px;
+    padding-top: 32px;
+  }
+}

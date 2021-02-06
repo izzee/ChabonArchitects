@@ -1,0 +1,12 @@
+$xs: 360px;
+$sm: 768px;
+$md: 1024px;
+$lg: 1600px;
+
+@mixin bp($class) {
+  @media (min-width: #{$class} ) { @content; }
+}
+
+@mixin bp-max($class) {
+  @media (max-width: #{$class - 1 } ) { @content; } 
+}

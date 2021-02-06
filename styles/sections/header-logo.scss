@@ -1,0 +1,26 @@
+
+  .hero-logo, .header-logo {
+    color: black;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-transform: uppercase;
+    height: 48px;
+   
+
+    .logo-chabon {
+      font-size: 20px;
+      @include bp($sm){
+        font-size: 24px;
+      }
+    }
+
+    .logo-architects {
+      font-size: 13px;
+      letter-spacing: .5px;
+      @include bp($sm){
+        font-size: 16px
+      }
+    }
+  }

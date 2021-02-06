@@ -1,0 +1,92 @@
+@font-face {
+  font-family: 'Luxi Serif';
+  src: url('https://izzee.github.io/ACA/fonts/LuxiSerif.woff2') format('woff2'),
+       url('https://izzee.github.io/ACA/fonts/LuxiSerif.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+body {
+  font-family: proxima-nova, sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6{
+  font-weight: normal;
+}
+
+h1 {
+  font-size: 24px;
+  line-height: 1;
+  font-family: 'Luxi Serif', serif;
+  padding-bottom: 8px;
+  border-bottom: 1px solid black;
+  @include bp($sm) {
+    font-size: 40px;
+    padding-bottom: 16px;
+    height: 56px;
+  }
+}
+
+h2 {
+  font-size: 32px;
+  line-height: 1;
+  font-family: 'Luxi Serif', serif;
+  @include bp($sm) {
+    font-size: 48px;
+  }
+}
+
+h3 {
+  font-size: 24px;
+  font-family: proxima-nova-condensed, sans-serif;
+  @include bp($sm) {
+    font-size: 32px;
+  }
+}
+
+h4 {
+  font-size: 20px;
+  font-family: proxima-nova-condensed, sans-serif; 
+  @include bp($sm) {
+    font-size: 24px;
+  }
+}
+
+h5 {
+  font-size: 14px;
+  font-family: 'Luxi Serif', serif;
+  @include bp($sm) {
+    font-size: 16px;
+  }
+  @include bp($md) {
+    font-size: 24px;
+  }
+}
+
+h6 {
+  font-family: 'Luxi Serif', serif;
+  font-size: 16px;
+}
+
+p, a, address, small {
+  font-size: 12px;
+  @include bp($sm) {
+    font-size: 16px;
+  }
+  @include bp-max($sm) {
+    line-height: 1.5;
+
+  }
+}
+
+p{
+  @include bp($xs) {
+    font-size: 16px;
+  }
+}
+
+
+p, address, small {
+  font-family: proxima-nova-condensed, sans-serif;
+}
