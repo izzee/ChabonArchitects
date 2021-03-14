@@ -303,172 +303,18 @@
 		"oAP": "/assets/Projects/5thAveApt/1.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/assets/Projects/5thAveApt/10.jpg": {
-		"ft": 16384,
-		"iS": 131,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/assets/Projects/5thAveApt/10.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/assets/Projects/5thAveApt/10B.jpg": {
-		"ft": 16384,
-		"iS": 131,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/assets/Projects/5thAveApt/10B.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/assets/Projects/5thAveApt/11.jpg": {
-		"ft": 16384,
-		"iS": 131,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/assets/Projects/5thAveApt/11.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/assets/Projects/5thAveApt/11Vert.jpg": {
-		"ft": 16384,
-		"iS": 132,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/assets/Projects/5thAveApt/11Vert.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/assets/Projects/5thAveApt/12.jpg": {
-		"ft": 16384,
-		"iS": 132,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/assets/Projects/5thAveApt/12.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/assets/Projects/5thAveApt/13.jpg": {
-		"ft": 16384,
-		"iS": 132,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/assets/Projects/5thAveApt/13.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/assets/Projects/5thAveApt/14.jpg": {
-		"ft": 16384,
-		"iS": 132,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/assets/Projects/5thAveApt/14.jpg",
-		"oF": 0,
-		"oIPL": 0,
 		"opt": 1,
 		"q": 100
 		},
-	"/assets/Projects/5thAveApt/14Vert.jpg": {
+	"/assets/Projects/5thAveApt/2.jpg": {
 		"ft": 16384,
 		"iS": 131,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/assets/Projects/5thAveApt/14Vert.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/assets/Projects/5thAveApt/15A.jpg": {
-		"ft": 16384,
-		"iS": 131,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/assets/Projects/5thAveApt/15A.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/assets/Projects/5thAveApt/15B_4598.jpg": {
-		"ft": 16384,
-		"iS": 131,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/assets/Projects/5thAveApt/15B_4598.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/assets/Projects/5thAveApt/16A.jpg": {
-		"ft": 16384,
-		"iS": 132,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/assets/Projects/5thAveApt/16A.jpg",
+		"oAP": "/assets/Projects/5thAveApt/2.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
-		"q": 100
-		},
-	"/assets/Projects/5thAveApt/16ACrop.jpg": {
-		"ft": 16384,
-		"iS": 131,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/assets/Projects/5thAveApt/16ACrop.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/assets/Projects/5thAveApt/17.jpg": {
-		"ft": 16384,
-		"iS": 132,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/assets/Projects/5thAveApt/17.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/assets/Projects/5thAveApt/17Vert.jpg": {
-		"ft": 16384,
-		"iS": 132,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/assets/Projects/5thAveApt/17Vert.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/assets/Projects/5thAveApt/2_3F32.jpg": {
-		"ft": 16384,
-		"iS": 131,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/assets/Projects/5thAveApt/2_3F32.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
 		"q": 100
 		},
 	"/assets/Projects/5thAveApt/3.jpg": {
@@ -479,45 +325,56 @@
 		"oAP": "/assets/Projects/5thAveApt/3.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
-	"/assets/Projects/5thAveApt/4_D34E.jpg": {
+	"/assets/Projects/5thAveApt/4.jpg": {
+		"ft": 16384,
+		"iS": 132,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/assets/Projects/5thAveApt/4.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/assets/Projects/5thAveApt/5.jpg": {
 		"ft": 16384,
 		"iS": 131,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/assets/Projects/5thAveApt/4_D34E.jpg",
+		"oAP": "/assets/Projects/5thAveApt/5.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
-	"/assets/Projects/5thAveApt/7A.jpg": {
+	"/assets/Projects/5thAveApt/6.jpg": {
 		"ft": 16384,
 		"iS": 131,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/assets/Projects/5thAveApt/7A.jpg",
+		"oAP": "/assets/Projects/5thAveApt/6.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
-	"/assets/Projects/5thAveApt/7B.jpg": {
+	"/assets/Projects/5thAveApt/7.jpg": {
 		"ft": 16384,
-		"iS": 131,
+		"iS": 132,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/assets/Projects/5thAveApt/7B.jpg",
+		"oAP": "/assets/Projects/5thAveApt/7.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/assets/Projects/5thAveApt/8.jpg": {
 		"ft": 16384,
-		"iS": 132,
+		"iS": 131,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/assets/Projects/5thAveApt/8.jpg",
@@ -526,37 +383,15 @@
 		"opt": 1,
 		"q": 100
 		},
-	"/assets/Projects/5thAveApt/8Vert.jpg": {
-		"ft": 16384,
-		"iS": 132,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/assets/Projects/5thAveApt/8Vert.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
 	"/assets/Projects/5thAveApt/9.jpg": {
 		"ft": 16384,
-		"iS": 132,
+		"iS": 131,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/assets/Projects/5thAveApt/9.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/assets/Projects/5thAveApt/Hero.jpg": {
-		"ft": 16384,
-		"iS": 131,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/assets/Projects/5thAveApt/Hero.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/assets/Projects/5thAveDuplex/1.1.jpg": {
@@ -719,105 +554,6 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/assets/Projects/5thAveDuplex/Hero.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/assets/Projects/House_in_Riverdale/Hero.jpg": {
-		"ft": 16384,
-		"iS": 132,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/assets/Projects/House_in_Riverdale/Hero.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/assets/Projects/House_in_Riverdale/Riverdale10.jpg": {
-		"ft": 16384,
-		"iS": 131,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/assets/Projects/House_in_Riverdale/Riverdale10.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/assets/Projects/House_in_Riverdale/Riverdale3.jpg": {
-		"ft": 16384,
-		"iS": 132,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/assets/Projects/House_in_Riverdale/Riverdale3.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/assets/Projects/House_in_Riverdale/Riverdale4.jpg": {
-		"ft": 16384,
-		"iS": 132,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/assets/Projects/House_in_Riverdale/Riverdale4.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"q": 100
-		},
-	"/assets/Projects/House_in_Riverdale/Riverdale5.jpg": {
-		"ft": 16384,
-		"iS": 132,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/assets/Projects/House_in_Riverdale/Riverdale5.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/assets/Projects/House_in_Riverdale/Riverdale6.jpg": {
-		"ft": 16384,
-		"iS": 132,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/assets/Projects/House_in_Riverdale/Riverdale6.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/assets/Projects/House_in_Riverdale/Riverdale7.jpg": {
-		"ft": 16384,
-		"iS": 132,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/assets/Projects/House_in_Riverdale/Riverdale7.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/assets/Projects/House_in_Riverdale/Riverdale8.jpg": {
-		"ft": 16384,
-		"iS": 132,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/assets/Projects/House_in_Riverdale/Riverdale8.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/assets/Projects/House_in_Riverdale/Riverdale9.jpg": {
-		"ft": 16384,
-		"iS": 132,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/assets/Projects/House_in_Riverdale/Riverdale9.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -1461,6 +1197,105 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/assets/Projects/ShingleStyleRiverdale/10.jpg": {
+		"ft": 16384,
+		"iS": 131,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/assets/Projects/ShingleStyleRiverdale/10.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/assets/Projects/ShingleStyleRiverdale/3.jpg": {
+		"ft": 16384,
+		"iS": 132,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/assets/Projects/ShingleStyleRiverdale/3.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/assets/Projects/ShingleStyleRiverdale/4.jpg": {
+		"ft": 16384,
+		"iS": 132,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/assets/Projects/ShingleStyleRiverdale/4.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/assets/Projects/ShingleStyleRiverdale/5.jpg": {
+		"ft": 16384,
+		"iS": 132,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/assets/Projects/ShingleStyleRiverdale/5.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/assets/Projects/ShingleStyleRiverdale/6.jpg": {
+		"ft": 16384,
+		"iS": 132,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/assets/Projects/ShingleStyleRiverdale/6.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/assets/Projects/ShingleStyleRiverdale/7.jpg": {
+		"ft": 16384,
+		"iS": 132,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/assets/Projects/ShingleStyleRiverdale/7.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/assets/Projects/ShingleStyleRiverdale/8.jpg": {
+		"ft": 16384,
+		"iS": 132,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/assets/Projects/ShingleStyleRiverdale/8.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/assets/Projects/ShingleStyleRiverdale/9.jpg": {
+		"ft": 16384,
+		"iS": 132,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/assets/Projects/ShingleStyleRiverdale/9.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/assets/Projects/ShingleStyleRiverdale/Hero.jpg": {
+		"ft": 16384,
+		"iS": 132,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/assets/Projects/ShingleStyleRiverdale/Hero.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/assets/Projects/SunshineRanch/1.jpg": {
 		"ft": 16384,
 		"iS": 637501,
@@ -1693,6 +1528,14 @@
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/projects/SagebrushLodge.html",
+		"oF": 0
+		},
+	"/projects/ShingleStyleRiverdale.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/projects/ShingleStyleRiverdale.html",
 		"oF": 0
 		},
 	"/projects/SunshineRanch.html": {
