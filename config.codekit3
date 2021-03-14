@@ -394,6 +394,17 @@
 		"opt": 1,
 		"q": 100
 		},
+	"/assets/Projects/5thAveApt/thumbnail.jpg": {
+		"ft": 16384,
+		"iS": 408534,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/assets/Projects/5thAveApt/thumbnail.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/assets/Projects/5thAveDuplex/1.1.jpg": {
 		"ft": 16384,
 		"iS": 132,
@@ -1294,6 +1305,17 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
+		"q": 100
+		},
+	"/assets/Projects/ShingleStyleRiverdale/thumbnail.jpg": {
+		"ft": 16384,
+		"iS": 1838134,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/assets/Projects/ShingleStyleRiverdale/thumbnail.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/assets/Projects/SunshineRanch/1.jpg": {
