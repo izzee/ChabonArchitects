@@ -32,8 +32,10 @@
 
     img {
       width: 100%;
+      max-height: inherit;
       object-fit: cover;
-      object-position: center;
+      object-position: center center;
+
     }
   }
 
@@ -146,6 +148,10 @@
       }
     }
     
+  }
+
+  .photo-credit {
+    margin-top: 16px;
   }
 
   
