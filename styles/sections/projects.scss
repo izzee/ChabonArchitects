@@ -2,6 +2,7 @@
 .projects {
   h3 {
     padding-bottom: 16px;
+    
     line-height: 1;
   }
   
@@ -24,6 +25,7 @@
       height: 32px;
       line-height: 1;
       padding-top: 4px;
+      font-size: 18px;
       @include bp($sm) {
         padding-top: 8px;
         height: 40px;
@@ -42,6 +44,8 @@
   display: flex;
   justify-content: space-between;
   border-bottom: 1px solid black;
+  // font-weight: 200;
+  // font-family: 'proxima-nova-condensed';
 
   @include bp ($sm) {
     justify-content: flex-end;
