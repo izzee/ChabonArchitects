@@ -307,10 +307,10 @@ main > * + * {
 
 main .hidden {
   opacity: 0;
-  transform: translateY(24px);
+  transform: translateY(80px);
 }
 
-main p {
+main > p {
   font-size: 40px;
   color: black;
   transition: opacity 1s .5s, transform 1s .5s;
@@ -318,7 +318,7 @@ main p {
   font-weight: 400;
 }
 
-main p a {
+main > p a {
   color: #5B98CA;
   cursor: pointer;
   text-decoration: underline;
@@ -329,7 +329,7 @@ main p a {
   transition: text-decoration-color .5s, -webkit-text-decoration-color .5s;
 }
 
-main p a:hover {
+main > p a:hover {
   -webkit-text-decoration-color: #5B98CA;
           text-decoration-color: #5B98CA;
 }
@@ -357,7 +357,7 @@ main p a:hover {
 }
 
 .press .row.col-3 img {
-  width: 240px;
+  height: 80px;
 }
 
 .press .row img {
@@ -394,7 +394,7 @@ main p a:hover {
 .project-categories .category {
   flex-basis: 33%;
   display: inline-block;
-  transition: background-color 2s;
+  transition: background-color .5s;
   position: relative;
   overflow: hidden;
 }
@@ -408,8 +408,8 @@ main p a:hover {
 
 .project-categories .category:hover img {
   mix-blend-mode: multiply;
-  -webkit-filter: blur(10px);
-          filter: blur(10px);
+  -webkit-filter: blur(16px);
+          filter: blur(16px);
   opacity: .75;
 }
 
@@ -418,13 +418,13 @@ main p a:hover {
 }
 
 .project-categories .category:hover:first-child {
-  background-color: #bd7240;
+  background-color: #cfb5a4;
 }
 
 .project-categories .category:hover:nth-child(2) {
-  background-color: #4053bd;
+  background-color: #9aa1c5;
 }
 
 .project-categories .category:hover:nth-child(3) {
-  background-color: #22a568;
+  background-color: #8db3a0;
 }

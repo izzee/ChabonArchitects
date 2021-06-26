@@ -17,7 +17,6 @@ body {
   padding:0;
 }
 
-
 .hero {
   width: calc(100vw - 64px);
   height: calc(100vh - 144px);
@@ -29,7 +28,6 @@ body {
   margin-bottom: 100px;
   transform-origin: top center;
   transition: transform .5s;
-
 
   img {
     width: 100%;
@@ -49,7 +47,6 @@ body {
     z-index: 1;
     opacity: 1;
     transform: translateY(0);
-
   }
 
   img.outbound{
@@ -70,12 +67,12 @@ main {
 
   .hidden {
     opacity: 0;
-    transform: translateY(24px);
+    transform: translateY(80px);
   }
 }
 
 
-main p {
+main > p {
   font-size: 40px;
   color: black;
   transition: opacity 1s .5s, transform 1s .5s;
@@ -91,7 +88,6 @@ main p {
 
     &:hover {
       text-decoration-color: #5B98CA;
-
     }
   }
 }
@@ -120,7 +116,7 @@ main p {
     }
 
     &.col-3 img{
-      width: 240px;
+      height: 80px;
     }
 
     img {
@@ -161,7 +157,7 @@ main p {
   .category {
     flex-basis: 33%;
     display: inline-block;
-    transition: background-color 2s;
+    transition: background-color .5s;
     position: relative;
     overflow: hidden;
     img {
@@ -172,7 +168,7 @@ main p {
       
       img {
         mix-blend-mode: multiply;
-        filter: blur(10px);
+        filter: blur(16px);
         opacity: .75;
       }
 
@@ -180,13 +176,13 @@ main p {
         opacity: 1;
       }
       &:first-child {
-        background-color: rgb(189, 114, 64);
+        background-color: rgb(207, 181, 164);
       }
       &:nth-child(2) {
-        background-color: rgb(64, 83, 189);
+        background-color: rgb(154, 161, 197);
       }
       &:nth-child(3) {
-        background-color: rgb(34, 165, 104);
+        background-color: rgb(141, 179, 160);
       }
     }
   }
