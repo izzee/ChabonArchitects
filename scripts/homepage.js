@@ -68,6 +68,7 @@ logo.addEventListener('mouseenter', () => {
   }
 });
 
+
 header.addEventListener('mouseleave', () => {
   console.log('exit')
   if(!body.classList.contains('full-scroll')) {

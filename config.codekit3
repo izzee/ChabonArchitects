@@ -4,7 +4,7 @@
 	{
 		"name": "Process All Remaining Files and Folders",
 		"stepType": 1,
-		"uuidString": "29A15F6F-A87C-4712-AE16-84D108B2B282"
+		"uuidString": "0DBA7E61-E10A-4B49-9AEB-A2DD1E528EFE"
 		}
 	],
 "creatorBuild": "32186",
@@ -51,7 +51,7 @@
 		},
 	"/assets/arthurchabon.jpg": {
 		"ft": 16384,
-		"iS": 130,
+		"iS": 64260,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/assets/arthurchabon.jpg",
@@ -62,29 +62,29 @@
 		},
 	"/assets/hero.jpg": {
 		"ft": 16384,
-		"iS": 132,
+		"iS": 3269992,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/assets/hero.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/assets/hero2.jpg": {
 		"ft": 16384,
-		"iS": 132,
+		"iS": 1484629,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/assets/hero2.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/assets/hero3.jpg": {
 		"ft": 16384,
-		"iS": 131,
+		"iS": 388500,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/assets/hero3.jpg",
@@ -125,12 +125,12 @@
 		},
 	"/assets/logos/aspenmagazine.png": {
 		"ft": 32768,
-		"iS": 130,
+		"iS": 21472,
 		"oA": 0,
 		"oAP": "/assets/logos/aspenmagazine.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -176,7 +176,7 @@
 		},
 	"/assets/logos/luxe.png": {
 		"ft": 32768,
-		"iS": 130,
+		"iS": 11299,
 		"oA": 0,
 		"oAP": "/assets/logos/luxe.png",
 		"oF": 0,
@@ -197,29 +197,29 @@
 		},
 	"/assets/Portraits/AdrienneMerheb.jpg": {
 		"ft": 16384,
-		"iS": 130,
+		"iS": 6114108,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/assets/Portraits/AdrienneMerheb.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/assets/Portraits/ArthurChabon.jpg": {
 		"ft": 16384,
-		"iS": 130,
+		"iS": 1812727,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/assets/Portraits/ArthurChabon.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/assets/Portraits/HuiwonHong.jpg": {
 		"ft": 16384,
-		"iS": 131,
+		"iS": 363241,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/assets/Portraits/HuiwonHong.jpg",
@@ -230,7 +230,7 @@
 		},
 	"/assets/Portraits/KinMingHuang.jpg": {
 		"ft": 16384,
-		"iS": 130,
+		"iS": 17391,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/assets/Portraits/KinMingHuang.jpg",
@@ -241,7 +241,7 @@
 		},
 	"/assets/Portraits/KristinZiegler.jpg": {
 		"ft": 16384,
-		"iS": 130,
+		"iS": 86441,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/assets/Portraits/KristinZiegler.jpg",
@@ -252,18 +252,18 @@
 		},
 	"/assets/Portraits/LindaFacci.jpg": {
 		"ft": 16384,
-		"iS": 130,
+		"iS": 107430,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/assets/Portraits/LindaFacci.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/assets/Portraits/MatthewPaulCairo.jpg": {
 		"ft": 16384,
-		"iS": 130,
+		"iS": 30448,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/assets/Portraits/MatthewPaulCairo.jpg",
@@ -274,222 +274,114 @@
 		},
 	"/assets/Portraits/Ryan.jpg": {
 		"ft": 16384,
-		"iS": 130,
+		"iS": 1169406,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/assets/Portraits/Ryan.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/assets/Portraits/TealUsher.jpg": {
 		"ft": 16384,
-		"iS": 131,
+		"iS": 473455,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/assets/Portraits/TealUsher.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/assets/Portraits/YiZhou.jpg": {
 		"ft": 16384,
-		"iS": 130,
+		"iS": 632278,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/assets/Portraits/YiZhou.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/assets/Projects/5thAveApt/1.jpg": {
-		"ft": 16384,
-		"iS": 132,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/assets/Projects/5thAveApt/1.jpg",
-		"oF": 0,
-		"oIPL": 0,
 		"opt": 1,
 		"q": 100
 		},
-<<<<<<< HEAD
 	"/assets/Projects/5thAveApt/1.jpg": {
 		"ft": 16384,
 		"iS": 780536,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/assets/Projects/5thAveApt/1.jpg",
-=======
-	"/assets/Projects/5thAveApt/2.jpg": {
-		"ft": 16384,
-		"iS": 131,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/assets/Projects/5thAveApt/2.jpg",
->>>>>>> origin/main
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
-	"/assets/Projects/5thAveApt/3.jpg": {
-		"ft": 16384,
-		"iS": 131,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/assets/Projects/5thAveApt/3.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"q": 100
-		},
-<<<<<<< HEAD
 	"/assets/Projects/5thAveApt/2.jpg": {
 		"ft": 16384,
 		"iS": 558461,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/assets/Projects/5thAveApt/2.jpg",
-=======
-	"/assets/Projects/5thAveApt/4.jpg": {
-		"ft": 16384,
-		"iS": 132,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/assets/Projects/5thAveApt/4.jpg",
->>>>>>> origin/main
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
-<<<<<<< HEAD
 	"/assets/Projects/5thAveApt/3.jpg": {
 		"ft": 16384,
 		"iS": 1205080,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/assets/Projects/5thAveApt/3.jpg",
-=======
-	"/assets/Projects/5thAveApt/5.jpg": {
-		"ft": 16384,
-		"iS": 131,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/assets/Projects/5thAveApt/5.jpg",
->>>>>>> origin/main
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
-<<<<<<< HEAD
 	"/assets/Projects/5thAveApt/4.jpg": {
 		"ft": 16384,
 		"iS": 794452,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/assets/Projects/5thAveApt/4.jpg",
-=======
-	"/assets/Projects/5thAveApt/6.jpg": {
-		"ft": 16384,
-		"iS": 131,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/assets/Projects/5thAveApt/6.jpg",
->>>>>>> origin/main
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
-<<<<<<< HEAD
 	"/assets/Projects/5thAveApt/5.jpg": {
 		"ft": 16384,
 		"iS": 679587,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/assets/Projects/5thAveApt/5.jpg",
-=======
-	"/assets/Projects/5thAveApt/7.jpg": {
-		"ft": 16384,
-		"iS": 132,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/assets/Projects/5thAveApt/7.jpg",
->>>>>>> origin/main
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
-<<<<<<< HEAD
 	"/assets/Projects/5thAveApt/6.jpg": {
 		"ft": 16384,
 		"iS": 4695154,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/assets/Projects/5thAveApt/6.jpg",
-=======
-	"/assets/Projects/5thAveApt/8.jpg": {
-		"ft": 16384,
-		"iS": 131,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/assets/Projects/5thAveApt/8.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"q": 100
-		},
-	"/assets/Projects/5thAveApt/9.jpg": {
-		"ft": 16384,
-		"iS": 131,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/assets/Projects/5thAveApt/9.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"q": 100
-		},
-	"/assets/Projects/5thAveApt/thumbnail.jpg": {
-		"ft": 16384,
-		"iS": 408534,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/assets/Projects/5thAveApt/thumbnail.jpg",
->>>>>>> origin/main
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-<<<<<<< HEAD
 	"/assets/Projects/5thAveApt/7.jpg": {
 		"ft": 16384,
 		"iS": 464498,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/assets/Projects/5thAveApt/7.jpg",
-=======
-	"/assets/Projects/5thAveDuplex/1.1.jpg": {
-		"ft": 16384,
-		"iS": 132,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/assets/Projects/5thAveDuplex/1.1.jpg",
->>>>>>> origin/main
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-<<<<<<< HEAD
 	"/assets/Projects/5thAveApt/Hero.jpg": {
 		"ft": 16384,
 		"iS": 5651510,
@@ -507,1190 +399,594 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/assets/Projects/5thAveApt/unused/10.jpg",
-=======
-	"/assets/Projects/5thAveDuplex/1.1Crop.jpg": {
-		"ft": 16384,
-		"iS": 131,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/assets/Projects/5thAveDuplex/1.1Crop.jpg",
->>>>>>> origin/main
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-<<<<<<< HEAD
 	"/assets/Projects/5thAveApt/unused/11Vert.jpg": {
 		"ft": 16384,
 		"iS": 1606748,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/assets/Projects/5thAveApt/unused/11Vert.jpg",
-=======
-	"/assets/Projects/5thAveDuplex/1.1Vert.jpg": {
-		"ft": 16384,
-		"iS": 132,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/assets/Projects/5thAveDuplex/1.1Vert.jpg",
->>>>>>> origin/main
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-<<<<<<< HEAD
 	"/assets/Projects/5thAveApt/unused/12.jpg": {
 		"ft": 16384,
 		"iS": 1409049,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/assets/Projects/5thAveApt/unused/12.jpg",
-=======
-	"/assets/Projects/5thAveDuplex/10.jpg": {
-		"ft": 16384,
-		"iS": 132,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/assets/Projects/5thAveDuplex/10.jpg",
->>>>>>> origin/main
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-<<<<<<< HEAD
 	"/assets/Projects/5thAveApt/unused/13.jpg": {
 		"ft": 16384,
 		"iS": 1238245,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/assets/Projects/5thAveApt/unused/13.jpg",
-=======
-	"/assets/Projects/5thAveDuplex/2.1.jpg": {
-		"ft": 16384,
-		"iS": 131,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/assets/Projects/5thAveDuplex/2.1.jpg",
->>>>>>> origin/main
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-<<<<<<< HEAD
 	"/assets/Projects/5thAveApt/unused/14Vert.jpg": {
 		"ft": 16384,
 		"iS": 888823,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/assets/Projects/5thAveApt/unused/14Vert.jpg",
-=======
-	"/assets/Projects/5thAveDuplex/3.jpg": {
-		"ft": 16384,
-		"iS": 131,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/assets/Projects/5thAveDuplex/3.jpg",
->>>>>>> origin/main
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-<<<<<<< HEAD
 	"/assets/Projects/5thAveApt/unused/15B_4598.jpg": {
 		"ft": 16384,
 		"iS": 436645,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/assets/Projects/5thAveApt/unused/15B_4598.jpg",
-=======
-	"/assets/Projects/5thAveDuplex/4.1.jpg": {
-		"ft": 16384,
-		"iS": 131,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/assets/Projects/5thAveDuplex/4.1.jpg",
->>>>>>> origin/main
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-<<<<<<< HEAD
 	"/assets/Projects/5thAveApt/unused/16A.jpg": {
 		"ft": 16384,
 		"iS": 3848061,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/assets/Projects/5thAveApt/unused/16A.jpg",
-=======
-	"/assets/Projects/5thAveDuplex/5.jpg": {
-		"ft": 16384,
-		"iS": 131,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/assets/Projects/5thAveDuplex/5.jpg",
->>>>>>> origin/main
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-<<<<<<< HEAD
 	"/assets/Projects/5thAveApt/unused/16ACrop.jpg": {
 		"ft": 16384,
 		"iS": 898053,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/assets/Projects/5thAveApt/unused/16ACrop.jpg",
-=======
-	"/assets/Projects/5thAveDuplex/5A.jpg": {
-		"ft": 16384,
-		"iS": 131,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/assets/Projects/5thAveDuplex/5A.jpg",
->>>>>>> origin/main
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-<<<<<<< HEAD
 	"/assets/Projects/5thAveApt/unused/17.jpg": {
 		"ft": 16384,
 		"iS": 4989562,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/assets/Projects/5thAveApt/unused/17.jpg",
-=======
-	"/assets/Projects/5thAveDuplex/6.1.jpg": {
-		"ft": 16384,
-		"iS": 131,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/assets/Projects/5thAveDuplex/6.1.jpg",
->>>>>>> origin/main
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-<<<<<<< HEAD
 	"/assets/Projects/5thAveApt/unused/17Vert.jpg": {
 		"ft": 16384,
 		"iS": 1193724,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/assets/Projects/5thAveApt/unused/17Vert.jpg",
-=======
-	"/assets/Projects/5thAveDuplex/7A.jpg": {
-		"ft": 16384,
-		"iS": 131,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/assets/Projects/5thAveDuplex/7A.jpg",
->>>>>>> origin/main
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-<<<<<<< HEAD
 	"/assets/Projects/5thAveApt/unused/4_D34E.jpg": {
 		"ft": 16384,
 		"iS": 799255,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/assets/Projects/5thAveApt/unused/4_D34E.jpg",
-=======
-	"/assets/Projects/5thAveDuplex/7AVert.jpg": {
-		"ft": 16384,
-		"iS": 132,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/assets/Projects/5thAveDuplex/7AVert.jpg",
->>>>>>> origin/main
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-<<<<<<< HEAD
 	"/assets/Projects/5thAveApt/unused/7A.jpg": {
 		"ft": 16384,
 		"iS": 793844,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/assets/Projects/5thAveApt/unused/7A.jpg",
-=======
-	"/assets/Projects/5thAveDuplex/8.1.jpg": {
-		"ft": 16384,
-		"iS": 132,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/assets/Projects/5thAveDuplex/8.1.jpg",
->>>>>>> origin/main
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-<<<<<<< HEAD
 	"/assets/Projects/5thAveApt/unused/8.jpg": {
 		"ft": 16384,
 		"iS": 5384251,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/assets/Projects/5thAveApt/unused/8.jpg",
-=======
-	"/assets/Projects/5thAveDuplex/9.1.jpg": {
-		"ft": 16384,
-		"iS": 132,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/assets/Projects/5thAveDuplex/9.1.jpg",
->>>>>>> origin/main
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-<<<<<<< HEAD
 	"/assets/Projects/5thAveApt/unused/8Vert.jpg": {
 		"ft": 16384,
 		"iS": 1265728,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/assets/Projects/5thAveApt/unused/8Vert.jpg",
-=======
-	"/assets/Projects/5thAveDuplex/Hero.jpg": {
-		"ft": 16384,
-		"iS": 131,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/assets/Projects/5thAveDuplex/Hero.jpg",
->>>>>>> origin/main
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-<<<<<<< HEAD
 	"/assets/Projects/5thAveApt/unused/x.jpg": {
 		"ft": 16384,
 		"iS": 5651510,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/assets/Projects/5thAveApt/unused/x.jpg",
-=======
-	"/assets/Projects/ParkAveApt/1000Park-BR1.jpg": {
-		"ft": 16384,
-		"iS": 132,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/assets/Projects/ParkAveApt/1000Park-BR1.jpg",
->>>>>>> origin/main
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-<<<<<<< HEAD
 	"/assets/Projects/5thAveApt/unused/xx.jpg": {
 		"ft": 16384,
 		"iS": 619785,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/assets/Projects/5thAveApt/unused/xx.jpg",
-=======
-	"/assets/Projects/ParkAveApt/1000Park-BreakfastRm.jpg": {
-		"ft": 16384,
-		"iS": 132,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/assets/Projects/ParkAveApt/1000Park-BreakfastRm.jpg",
->>>>>>> origin/main
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-<<<<<<< HEAD
 	"/assets/Projects/5thAveDuplex/1.jpg": {
 		"ft": 16384,
 		"iS": 262317,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/assets/Projects/5thAveDuplex/1.jpg",
-=======
-	"/assets/Projects/ParkAveApt/1000Park-Closet1.jpg": {
-		"ft": 16384,
-		"iS": 132,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/assets/Projects/ParkAveApt/1000Park-Closet1.jpg",
->>>>>>> origin/main
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-<<<<<<< HEAD
 	"/assets/Projects/5thAveDuplex/2.jpg": {
 		"ft": 16384,
 		"iS": 227408,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/assets/Projects/5thAveDuplex/2.jpg",
-=======
-	"/assets/Projects/ParkAveApt/1000Park-KitchenNorth1.jpg": {
-		"ft": 16384,
-		"iS": 132,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/assets/Projects/ParkAveApt/1000Park-KitchenNorth1.jpg",
->>>>>>> origin/main
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-<<<<<<< HEAD
 	"/assets/Projects/5thAveDuplex/4.jpg": {
 		"ft": 16384,
 		"iS": 249203,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/assets/Projects/5thAveDuplex/4.jpg",
-=======
-	"/assets/Projects/ParkAveApt/1000Park-KitchenSouth1.jpg": {
-		"ft": 16384,
-		"iS": 131,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/assets/Projects/ParkAveApt/1000Park-KitchenSouth1.jpg",
->>>>>>> origin/main
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-<<<<<<< HEAD
 	"/assets/Projects/5thAveDuplex/Hero.jpg": {
 		"ft": 16384,
 		"iS": 288430,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/assets/Projects/5thAveDuplex/Hero.jpg",
-=======
-	"/assets/Projects/ParkAveApt/1000Park-LR1.jpg": {
-		"ft": 16384,
-		"iS": 131,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/assets/Projects/ParkAveApt/1000Park-LR1.jpg",
->>>>>>> origin/main
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-<<<<<<< HEAD
 	"/assets/Projects/5thAveDuplex/unused/1.1.jpg": {
 		"ft": 16384,
 		"iS": 2229097,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/assets/Projects/5thAveDuplex/unused/1.1.jpg",
-=======
-	"/assets/Projects/ParkAveApt/1000Park-LR2.jpg": {
-		"ft": 16384,
-		"iS": 131,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/assets/Projects/ParkAveApt/1000Park-LR2.jpg",
->>>>>>> origin/main
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-<<<<<<< HEAD
 	"/assets/Projects/5thAveDuplex/unused/1.1Crop.jpg": {
 		"ft": 16384,
 		"iS": 812019,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/assets/Projects/5thAveDuplex/unused/1.1Crop.jpg",
-=======
-	"/assets/Projects/ParkAveApt/1000Park-LR3.jpg": {
-		"ft": 16384,
-		"iS": 131,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/assets/Projects/ParkAveApt/1000Park-LR3.jpg",
->>>>>>> origin/main
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-<<<<<<< HEAD
 	"/assets/Projects/5thAveDuplex/unused/1.1Vert.jpg": {
 		"ft": 16384,
 		"iS": 1530675,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/assets/Projects/5thAveDuplex/unused/1.1Vert.jpg",
-=======
-	"/assets/Projects/ParkAveApt/1000Park-LR4.jpg": {
-		"ft": 16384,
-		"iS": 131,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/assets/Projects/ParkAveApt/1000Park-LR4.jpg",
->>>>>>> origin/main
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-<<<<<<< HEAD
 	"/assets/Projects/5thAveDuplex/unused/10.jpg": {
 		"ft": 16384,
 		"iS": 2985381,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/assets/Projects/5thAveDuplex/unused/10.jpg",
-=======
-	"/assets/Projects/ParkAveApt/1000Park-LR5.jpg": {
-		"ft": 16384,
-		"iS": 131,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/assets/Projects/ParkAveApt/1000Park-LR5.jpg",
->>>>>>> origin/main
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-<<<<<<< HEAD
 	"/assets/Projects/5thAveDuplex/unused/2.1.jpg": {
 		"ft": 16384,
 		"iS": 602990,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/assets/Projects/5thAveDuplex/unused/2.1.jpg",
-=======
-	"/assets/Projects/ParkAveApt/1000Park-MastBth1.jpg": {
-		"ft": 16384,
-		"iS": 131,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/assets/Projects/ParkAveApt/1000Park-MastBth1.jpg",
->>>>>>> origin/main
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-<<<<<<< HEAD
 	"/assets/Projects/5thAveDuplex/unused/4.1.jpg": {
 		"ft": 16384,
 		"iS": 539944,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/assets/Projects/5thAveDuplex/unused/4.1.jpg",
-=======
-	"/assets/Projects/ParkAveApt/1000Park-MastBth2.jpg": {
-		"ft": 16384,
-		"iS": 131,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/assets/Projects/ParkAveApt/1000Park-MastBth2.jpg",
->>>>>>> origin/main
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-<<<<<<< HEAD
 	"/assets/Projects/5thAveDuplex/unused/5A.jpg": {
 		"ft": 16384,
 		"iS": 205460,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/assets/Projects/5thAveDuplex/unused/5A.jpg",
-=======
-	"/assets/Projects/ParkAveApt/1000Park-MastBth3.jpg": {
-		"ft": 16384,
-		"iS": 131,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/assets/Projects/ParkAveApt/1000Park-MastBth3.jpg",
->>>>>>> origin/main
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-<<<<<<< HEAD
 	"/assets/Projects/5thAveDuplex/unused/7A.jpg": {
 		"ft": 16384,
 		"iS": 288430,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/assets/Projects/5thAveDuplex/unused/7A.jpg",
-=======
-	"/assets/Projects/ParkAveApt/1000Park-MstBR1.jpg": {
-		"ft": 16384,
-		"iS": 132,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/assets/Projects/ParkAveApt/1000Park-MstBR1.jpg",
->>>>>>> origin/main
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-<<<<<<< HEAD
 	"/assets/Projects/5thAveDuplex/unused/7AVert.jpg": {
 		"ft": 16384,
 		"iS": 1136438,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/assets/Projects/5thAveDuplex/unused/7AVert.jpg",
-=======
-	"/assets/Projects/ParkAveApt/1000Park-MstBR2.jpg": {
-		"ft": 16384,
-		"iS": 132,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/assets/Projects/ParkAveApt/1000Park-MstBR2.jpg",
->>>>>>> origin/main
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-<<<<<<< HEAD
 	"/assets/Projects/5thAveDuplex/unused/8.1.jpg": {
 		"ft": 16384,
 		"iS": 1529002,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/assets/Projects/5thAveDuplex/unused/8.1.jpg",
-=======
-	"/assets/Projects/ParkAveApt/1000Park-MstBR3.jpg": {
-		"ft": 16384,
-		"iS": 132,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/assets/Projects/ParkAveApt/1000Park-MstBR3.jpg",
->>>>>>> origin/main
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-<<<<<<< HEAD
 	"/assets/Projects/5thAveDuplex/unused/9.1.jpg": {
 		"ft": 16384,
 		"iS": 2010295,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/assets/Projects/5thAveDuplex/unused/9.1.jpg",
-=======
-	"/assets/Projects/ParkAveApt/1000Park-MstBR4.jpg": {
-		"ft": 16384,
-		"iS": 132,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/assets/Projects/ParkAveApt/1000Park-MstBR4.jpg",
->>>>>>> origin/main
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-<<<<<<< HEAD
 	"/assets/Projects/5thAveDuplex/unused/Hero.jpg": {
 		"ft": 16384,
 		"iS": 262317,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/assets/Projects/5thAveDuplex/unused/Hero.jpg",
-=======
-	"/assets/Projects/ParkAveApt/1000Park-WC1.jpg": {
-		"ft": 16384,
-		"iS": 131,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/assets/Projects/ParkAveApt/1000Park-WC1.jpg",
->>>>>>> origin/main
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-<<<<<<< HEAD
 	"/assets/Projects/Heros/07282015_DavidMarlow_Chabon_AspenJewishCC_048.jpg": {
 		"ft": 16384,
 		"iS": 12387059,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/assets/Projects/Heros/07282015_DavidMarlow_Chabon_AspenJewishCC_048.jpg",
-=======
-	"/assets/Projects/ParkAveApt/1000Park-WC2.jpg": {
-		"ft": 16384,
-		"iS": 131,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/assets/Projects/ParkAveApt/1000Park-WC2.jpg",
->>>>>>> origin/main
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-<<<<<<< HEAD
 	"/assets/Projects/Heros/West from River.jpg": {
 		"ft": 16384,
 		"iS": 2115795,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/assets/Projects/Heros/West from River.jpg",
-=======
-	"/assets/Projects/ParkAveApt/1000Park-WC3.jpg": {
-		"ft": 16384,
-		"iS": 131,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/assets/Projects/ParkAveApt/1000Park-WC3.jpg",
->>>>>>> origin/main
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-<<<<<<< HEAD
 	"/assets/Projects/ParkAveApt/1000Park-BR1.jpg": {
 		"ft": 16384,
 		"iS": 1242318,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/assets/Projects/ParkAveApt/1000Park-BR1.jpg",
-=======
-	"/assets/Projects/ParkAveApt/1000Park-WC4.jpg": {
-		"ft": 16384,
-		"iS": 131,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/assets/Projects/ParkAveApt/1000Park-WC4.jpg",
->>>>>>> origin/main
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-<<<<<<< HEAD
 	"/assets/Projects/ParkAveApt/1000Park-BreakfastRm.jpg": {
 		"ft": 16384,
 		"iS": 1062309,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/assets/Projects/ParkAveApt/1000Park-BreakfastRm.jpg",
-=======
-	"/assets/Projects/ParkAveApt/1000ParkBathroom1.jpg": {
-		"ft": 16384,
-		"iS": 132,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/assets/Projects/ParkAveApt/1000ParkBathroom1.jpg",
->>>>>>> origin/main
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-<<<<<<< HEAD
 	"/assets/Projects/ParkAveApt/1000Park-Closet1.jpg": {
 		"ft": 16384,
 		"iS": 1494933,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/assets/Projects/ParkAveApt/1000Park-Closet1.jpg",
-=======
-	"/assets/Projects/ParkAveApt/Hero copy.jpg": {
-		"ft": 16384,
-		"iS": 895349,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/assets/Projects/ParkAveApt/Hero copy.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"q": 100
-		},
-	"/assets/Projects/ParkAveApt/Hero.jpg": {
-		"ft": 16384,
-		"iS": 131,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/assets/Projects/ParkAveApt/Hero.jpg",
->>>>>>> origin/main
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-<<<<<<< HEAD
 	"/assets/Projects/ParkAveApt/1000Park-KitchenNorth1.jpg": {
 		"ft": 16384,
 		"iS": 1270675,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/assets/Projects/ParkAveApt/1000Park-KitchenNorth1.jpg",
-=======
-	"/assets/Projects/ParkAveApt/thumbnail.jpg": {
-		"ft": 16384,
-		"iS": 168711,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/assets/Projects/ParkAveApt/thumbnail.jpg",
->>>>>>> origin/main
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-<<<<<<< HEAD
 	"/assets/Projects/ParkAveApt/1000Park-KitchenSouth1.jpg": {
 		"ft": 16384,
 		"iS": 674262,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/assets/Projects/ParkAveApt/1000Park-KitchenSouth1.jpg",
-=======
-	"/assets/Projects/Riverbend/1.jpg": {
-		"ft": 16384,
-		"iS": 711953,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/assets/Projects/Riverbend/1.jpg",
->>>>>>> origin/main
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-<<<<<<< HEAD
 	"/assets/Projects/ParkAveApt/1000Park-LR1.jpg": {
 		"ft": 16384,
 		"iS": 845029,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/assets/Projects/ParkAveApt/1000Park-LR1.jpg",
-=======
-	"/assets/Projects/Riverbend/10.jpg": {
-		"ft": 16384,
-		"iS": 8241701,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/assets/Projects/Riverbend/10.jpg",
->>>>>>> origin/main
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-<<<<<<< HEAD
 	"/assets/Projects/ParkAveApt/1000Park-LR2.jpg": {
 		"ft": 16384,
 		"iS": 760758,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/assets/Projects/ParkAveApt/1000Park-LR2.jpg",
-=======
-	"/assets/Projects/Riverbend/11.jpg": {
-		"ft": 16384,
-		"iS": 10183585,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/assets/Projects/Riverbend/11.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"q": 100
-		},
-	"/assets/Projects/Riverbend/12.jpg": {
-		"ft": 16384,
-		"iS": 7957845,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/assets/Projects/Riverbend/12.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"q": 100
-		},
-	"/assets/Projects/Riverbend/13.jpg": {
-		"ft": 16384,
-		"iS": 610886,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/assets/Projects/Riverbend/13.jpg",
->>>>>>> origin/main
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-<<<<<<< HEAD
 	"/assets/Projects/ParkAveApt/1000Park-LR3.jpg": {
 		"ft": 16384,
 		"iS": 843669,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/assets/Projects/ParkAveApt/1000Park-LR3.jpg",
-=======
-	"/assets/Projects/Riverbend/14.jpg": {
-		"ft": 16384,
-		"iS": 880266,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/assets/Projects/Riverbend/14.jpg",
->>>>>>> origin/main
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-<<<<<<< HEAD
 	"/assets/Projects/ParkAveApt/1000Park-LR4.jpg": {
 		"ft": 16384,
 		"iS": 860276,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/assets/Projects/ParkAveApt/1000Park-LR4.jpg",
-=======
-	"/assets/Projects/Riverbend/15.jpg": {
-		"ft": 16384,
-		"iS": 625213,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/assets/Projects/Riverbend/15.jpg",
->>>>>>> origin/main
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-<<<<<<< HEAD
 	"/assets/Projects/ParkAveApt/1000Park-LR5.jpg": {
 		"ft": 16384,
 		"iS": 962317,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/assets/Projects/ParkAveApt/1000Park-LR5.jpg",
-=======
-	"/assets/Projects/Riverbend/16.jpg": {
-		"ft": 16384,
-		"iS": 471748,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/assets/Projects/Riverbend/16.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"q": 100
-		},
-	"/assets/Projects/Riverbend/17.jpg": {
-		"ft": 16384,
-		"iS": 5786124,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/assets/Projects/Riverbend/17.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"q": 100
-		},
-	"/assets/Projects/Riverbend/18.jpg": {
-		"ft": 16384,
-		"iS": 1045850,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/assets/Projects/Riverbend/18.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"q": 100
-		},
-	"/assets/Projects/Riverbend/19.jpg": {
-		"ft": 16384,
-		"iS": 1577090,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/assets/Projects/Riverbend/19.jpg",
->>>>>>> origin/main
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-<<<<<<< HEAD
 	"/assets/Projects/ParkAveApt/1000Park-MastBth1.jpg": {
 		"ft": 16384,
 		"iS": 626134,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/assets/Projects/ParkAveApt/1000Park-MastBth1.jpg",
-=======
-	"/assets/Projects/Riverbend/2.jpg": {
-		"ft": 16384,
-		"iS": 549941,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/assets/Projects/Riverbend/2.jpg",
->>>>>>> origin/main
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-<<<<<<< HEAD
 	"/assets/Projects/ParkAveApt/1000Park-MastBth2.jpg": {
 		"ft": 16384,
 		"iS": 309054,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/assets/Projects/ParkAveApt/1000Park-MastBth2.jpg",
-=======
-	"/assets/Projects/Riverbend/3.jpg": {
-		"ft": 16384,
-		"iS": 1224065,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/assets/Projects/Riverbend/3.jpg",
->>>>>>> origin/main
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-<<<<<<< HEAD
 	"/assets/Projects/ParkAveApt/1000Park-MastBth3.jpg": {
 		"ft": 16384,
 		"iS": 309054,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/assets/Projects/ParkAveApt/1000Park-MastBth3.jpg",
-=======
-	"/assets/Projects/Riverbend/4.jpg": {
-		"ft": 16384,
-		"iS": 1712742,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/assets/Projects/Riverbend/4.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"q": 100
-		},
-	"/assets/Projects/Riverbend/5.jpg": {
-		"ft": 16384,
-		"iS": 3434030,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/assets/Projects/Riverbend/5.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"q": 100
-		},
-	"/assets/Projects/Riverbend/6.jpg": {
-		"ft": 16384,
-		"iS": 1645322,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/assets/Projects/Riverbend/6.jpg",
->>>>>>> origin/main
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-<<<<<<< HEAD
 	"/assets/Projects/ParkAveApt/1000Park-MstBR1.jpg": {
 		"ft": 16384,
 		"iS": 1321304,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/assets/Projects/ParkAveApt/1000Park-MstBR1.jpg",
-=======
-	"/assets/Projects/Riverbend/7.jpg": {
-		"ft": 16384,
-		"iS": 1466203,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/assets/Projects/Riverbend/7.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"q": 100
-		},
-	"/assets/Projects/Riverbend/8.jpg": {
-		"ft": 16384,
-		"iS": 2115795,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/assets/Projects/Riverbend/8.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"q": 100
-		},
-	"/assets/Projects/Riverbend/9.jpg": {
-		"ft": 16384,
-		"iS": 1025214,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/assets/Projects/Riverbend/9.jpg",
->>>>>>> origin/main
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-<<<<<<< HEAD
 	"/assets/Projects/ParkAveApt/1000Park-MstBR2.jpg": {
 		"ft": 16384,
 		"iS": 1073501,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/assets/Projects/ParkAveApt/1000Park-MstBR2.jpg",
-=======
-	"/assets/Projects/Riverbend/thumbnail.jpg": {
-		"ft": 16384,
-		"iS": 319207,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/assets/Projects/Riverbend/thumbnail.jpg",
->>>>>>> origin/main
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-<<<<<<< HEAD
 	"/assets/Projects/ParkAveApt/1000Park-MstBR3.jpg": {
 		"ft": 16384,
 		"iS": 1641497,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/assets/Projects/ParkAveApt/1000Park-MstBR3.jpg",
-=======
-	"/assets/Projects/SageBrushLodge/1.jpg": {
-		"ft": 16384,
-		"iS": 630342,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/assets/Projects/SageBrushLodge/1.jpg",
->>>>>>> origin/main
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-<<<<<<< HEAD
 	"/assets/Projects/ParkAveApt/1000Park-MstBR4.jpg": {
 		"ft": 16384,
 		"iS": 1733374,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/assets/Projects/ParkAveApt/1000Park-MstBR4.jpg",
-=======
-	"/assets/Projects/SageBrushLodge/10.jpg": {
-		"ft": 16384,
-		"iS": 783650,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/assets/Projects/SageBrushLodge/10.jpg",
->>>>>>> origin/main
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-<<<<<<< HEAD
 	"/assets/Projects/ParkAveApt/1000Park-WC1.jpg": {
 		"ft": 16384,
 		"iS": 698765,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/assets/Projects/ParkAveApt/1000Park-WC1.jpg",
-=======
-	"/assets/Projects/SageBrushLodge/11.jpg": {
-		"ft": 16384,
-		"iS": 349220,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/assets/Projects/SageBrushLodge/11.jpg",
->>>>>>> origin/main
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-<<<<<<< HEAD
 	"/assets/Projects/ParkAveApt/1000Park-WC2.jpg": {
 		"ft": 16384,
 		"iS": 688127,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/assets/Projects/ParkAveApt/1000Park-WC2.jpg",
-=======
-	"/assets/Projects/SageBrushLodge/12.jpg": {
-		"ft": 16384,
-		"iS": 683453,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/assets/Projects/SageBrushLodge/12.jpg",
->>>>>>> origin/main
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-<<<<<<< HEAD
 	"/assets/Projects/ParkAveApt/1000Park-WC3.jpg": {
 		"ft": 16384,
 		"iS": 490397,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/assets/Projects/ParkAveApt/1000Park-WC3.jpg",
-=======
-	"/assets/Projects/SageBrushLodge/2.jpg": {
-		"ft": 16384,
-		"iS": 529512,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/assets/Projects/SageBrushLodge/2.jpg",
->>>>>>> origin/main
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-<<<<<<< HEAD
 	"/assets/Projects/ParkAveApt/1000Park-WC4.jpg": {
 		"ft": 16384,
 		"iS": 958374,
@@ -1719,20 +1015,11 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/assets/Projects/ParkAveApt/Hero.jpg",
-=======
-	"/assets/Projects/SageBrushLodge/3.jpg": {
-		"ft": 16384,
-		"iS": 492359,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/assets/Projects/SageBrushLodge/3.jpg",
->>>>>>> origin/main
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
-<<<<<<< HEAD
 	"/assets/Projects/Riverbend/10.jpg": {
 		"ft": 16384,
 		"iS": 1254916,
@@ -1816,20 +1103,11 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/assets/Projects/Riverbend/8.jpg",
-=======
-	"/assets/Projects/SageBrushLodge/4.jpg": {
-		"ft": 16384,
-		"iS": 739252,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/assets/Projects/SageBrushLodge/4.jpg",
->>>>>>> origin/main
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-<<<<<<< HEAD
 	"/assets/Projects/Riverbend/9.jpg": {
 		"ft": 16384,
 		"iS": 7957845,
@@ -1842,147 +1120,87 @@
 		"q": 100
 		},
 	"/assets/Projects/Riverdale/10.jpg": {
-=======
-	"/assets/Projects/SageBrushLodge/5.jpg": {
->>>>>>> origin/main
 		"ft": 16384,
-		"iS": 466981,
+		"iS": 228721,
 		"jF": 0,
 		"oA": 0,
-<<<<<<< HEAD
 		"oAP": "/assets/Projects/Riverdale/10.jpg",
-=======
-		"oAP": "/assets/Projects/SageBrushLodge/5.jpg",
->>>>>>> origin/main
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-<<<<<<< HEAD
 	"/assets/Projects/Riverdale/3.jpg": {
-=======
-	"/assets/Projects/SageBrushLodge/6.jpg": {
->>>>>>> origin/main
 		"ft": 16384,
-		"iS": 438565,
+		"iS": 1150039,
 		"jF": 0,
 		"oA": 0,
-<<<<<<< HEAD
 		"oAP": "/assets/Projects/Riverdale/3.jpg",
-=======
-		"oAP": "/assets/Projects/SageBrushLodge/6.jpg",
->>>>>>> origin/main
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-<<<<<<< HEAD
 	"/assets/Projects/Riverdale/4.jpg": {
-=======
-	"/assets/Projects/SageBrushLodge/7.jpg": {
->>>>>>> origin/main
 		"ft": 16384,
-		"iS": 455955,
+		"iS": 8943926,
 		"jF": 0,
 		"oA": 0,
-<<<<<<< HEAD
 		"oAP": "/assets/Projects/Riverdale/4.jpg",
-=======
-		"oAP": "/assets/Projects/SageBrushLodge/7.jpg",
->>>>>>> origin/main
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-<<<<<<< HEAD
 	"/assets/Projects/Riverdale/5.jpg": {
-=======
-	"/assets/Projects/SageBrushLodge/8.jpg": {
->>>>>>> origin/main
 		"ft": 16384,
-		"iS": 423616,
+		"iS": 1286344,
 		"jF": 0,
 		"oA": 0,
-<<<<<<< HEAD
 		"oAP": "/assets/Projects/Riverdale/5.jpg",
-=======
-		"oAP": "/assets/Projects/SageBrushLodge/8.jpg",
->>>>>>> origin/main
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-<<<<<<< HEAD
 	"/assets/Projects/Riverdale/6.jpg": {
-=======
-	"/assets/Projects/SageBrushLodge/9.jpg": {
->>>>>>> origin/main
 		"ft": 16384,
-		"iS": 815440,
+		"iS": 1434015,
 		"jF": 0,
 		"oA": 0,
-<<<<<<< HEAD
 		"oAP": "/assets/Projects/Riverdale/6.jpg",
-=======
-		"oAP": "/assets/Projects/SageBrushLodge/9.jpg",
->>>>>>> origin/main
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-<<<<<<< HEAD
 	"/assets/Projects/Riverdale/7.jpg": {
-=======
-	"/assets/Projects/SageBrushLodge/thumbnail.jpg": {
->>>>>>> origin/main
 		"ft": 16384,
-		"iS": 546773,
+		"iS": 1219374,
 		"jF": 0,
 		"oA": 0,
-<<<<<<< HEAD
 		"oAP": "/assets/Projects/Riverdale/7.jpg",
-=======
-		"oAP": "/assets/Projects/SageBrushLodge/thumbnail.jpg",
->>>>>>> origin/main
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-<<<<<<< HEAD
 	"/assets/Projects/Riverdale/8.jpg": {
-=======
-	"/assets/Projects/ShingleStyleRiverdale/10.jpg": {
->>>>>>> origin/main
 		"ft": 16384,
-		"iS": 131,
+		"iS": 1329028,
 		"jF": 0,
 		"oA": 0,
-<<<<<<< HEAD
 		"oAP": "/assets/Projects/Riverdale/8.jpg",
-=======
-		"oAP": "/assets/Projects/ShingleStyleRiverdale/10.jpg",
->>>>>>> origin/main
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-<<<<<<< HEAD
 	"/assets/Projects/Riverdale/9.jpg": {
-=======
-	"/assets/Projects/ShingleStyleRiverdale/3.jpg": {
->>>>>>> origin/main
 		"ft": 16384,
-		"iS": 132,
+		"iS": 3018913,
 		"jF": 0,
 		"oA": 0,
-<<<<<<< HEAD
 		"oAP": "/assets/Projects/Riverdale/9.jpg",
 		"oF": 0,
 		"oIPL": 0,
@@ -1995,191 +1213,132 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/assets/Projects/Riverdale/Hero.jpg",
-=======
-		"oAP": "/assets/Projects/ShingleStyleRiverdale/3.jpg",
->>>>>>> origin/main
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"/assets/Projects/ShingleStyleRiverdale/4.jpg": {
+	"/assets/Projects/Sagebrush_Lodge/BunkBeds.jpg": {
 		"ft": 16384,
-		"iS": 132,
+		"iS": 1265121,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/assets/Projects/ShingleStyleRiverdale/4.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"q": 100
-		},
-	"/assets/Projects/ShingleStyleRiverdale/5.jpg": {
-		"ft": 16384,
-		"iS": 132,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/assets/Projects/ShingleStyleRiverdale/5.jpg",
+		"oAP": "/assets/Projects/Sagebrush_Lodge/BunkBeds.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"/assets/Projects/ShingleStyleRiverdale/6.jpg": {
+	"/assets/Projects/Sagebrush_Lodge/BunkBedsVert.jpg": {
 		"ft": 16384,
-		"iS": 132,
+		"iS": 4940282,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/assets/Projects/ShingleStyleRiverdale/6.jpg",
+		"oAP": "/assets/Projects/Sagebrush_Lodge/BunkBedsVert.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"/assets/Projects/ShingleStyleRiverdale/7.jpg": {
+	"/assets/Projects/Sagebrush_Lodge/ChildrensRm.jpg": {
 		"ft": 16384,
-		"iS": 132,
+		"iS": 6904855,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/assets/Projects/ShingleStyleRiverdale/7.jpg",
+		"oAP": "/assets/Projects/Sagebrush_Lodge/ChildrensRm.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"/assets/Projects/ShingleStyleRiverdale/8.jpg": {
+	"/assets/Projects/Sagebrush_Lodge/DinningRm.jpg": {
 		"ft": 16384,
-		"iS": 132,
+		"iS": 1211808,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/assets/Projects/ShingleStyleRiverdale/8.jpg",
+		"oAP": "/assets/Projects/Sagebrush_Lodge/DinningRm.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"/assets/Projects/ShingleStyleRiverdale/9.jpg": {
+	"/assets/Projects/Sagebrush_Lodge/DinningRmVert.jpg": {
 		"ft": 16384,
-		"iS": 132,
+		"iS": 3143880,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/assets/Projects/ShingleStyleRiverdale/9.jpg",
+		"oAP": "/assets/Projects/Sagebrush_Lodge/DinningRmVert.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"/assets/Projects/ShingleStyleRiverdale/Hero.jpg": {
+	"/assets/Projects/Sagebrush_Lodge/Hero.jpg": {
 		"ft": 16384,
-		"iS": 132,
+		"iS": 1089311,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/assets/Projects/ShingleStyleRiverdale/Hero.jpg",
+		"oAP": "/assets/Projects/Sagebrush_Lodge/Hero.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"/assets/Projects/ShingleStyleRiverdale/thumbnail.jpg": {
+	"/assets/Projects/Sagebrush_Lodge/Kitchen.jpg": {
 		"ft": 16384,
-		"iS": 1838134,
+		"iS": 7515892,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/assets/Projects/ShingleStyleRiverdale/thumbnail.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"q": 100
-		},
-	"/assets/Projects/SunshineRanch/1.jpg": {
-		"ft": 16384,
-		"iS": 637501,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/assets/Projects/SunshineRanch/1.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"q": 100
-		},
-	"/assets/Projects/SunshineRanch/10.jpg": {
-		"ft": 16384,
-		"iS": 633282,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/assets/Projects/SunshineRanch/10.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"q": 100
-		},
-	"/assets/Projects/SunshineRanch/11.jpg": {
-		"ft": 16384,
-		"iS": 655981,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/assets/Projects/SunshineRanch/11.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"q": 100
-		},
-	"/assets/Projects/SunshineRanch/12.jpg": {
-		"ft": 16384,
-		"iS": 637060,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/assets/Projects/SunshineRanch/12.jpg",
+		"oAP": "/assets/Projects/Sagebrush_Lodge/Kitchen.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"/assets/Projects/SunshineRanch/2.jpg": {
+	"/assets/Projects/Sagebrush_Lodge/LivingRm.jpg": {
 		"ft": 16384,
-		"iS": 657813,
+		"iS": 1401675,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/assets/Projects/SunshineRanch/2.jpg",
+		"oAP": "/assets/Projects/Sagebrush_Lodge/LivingRm.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"/assets/Projects/SunshineRanch/3.jpg": {
+	"/assets/Projects/Sagebrush_Lodge/MasterBdRm.jpg": {
 		"ft": 16384,
-		"iS": 591983,
+		"iS": 1107731,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/assets/Projects/SunshineRanch/3.jpg",
+		"oAP": "/assets/Projects/Sagebrush_Lodge/MasterBdRm.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"/assets/Projects/SunshineRanch/4.jpg": {
+	"/assets/Projects/Sagebrush_Lodge/MasterBdRmAdj1.jpg": {
 		"ft": 16384,
-		"iS": 518534,
+		"iS": 978606,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/assets/Projects/SunshineRanch/4.jpg",
+		"oAP": "/assets/Projects/Sagebrush_Lodge/MasterBdRmAdj1.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"/assets/Projects/SunshineRanch/5.jpg": {
+	"/assets/Projects/Sagebrush_Lodge/Patio.jpg": {
 		"ft": 16384,
-		"iS": 536660,
+		"iS": 1033061,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/assets/Projects/SunshineRanch/5.jpg",
+		"oAP": "/assets/Projects/Sagebrush_Lodge/Patio.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-<<<<<<< HEAD
 	"/assets/Projects/Sunshine Ranch/2.jpg": {
 		"ft": 16384,
 		"iS": 237855,
@@ -2208,62 +1367,22 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/assets/Projects/Sunshine Ranch/4.jpg",
-=======
-	"/assets/Projects/SunshineRanch/6.jpg": {
-		"ft": 16384,
-		"iS": 487097,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/assets/Projects/SunshineRanch/6.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"q": 100
-		},
-	"/assets/Projects/SunshineRanch/7.jpg": {
-		"ft": 16384,
-		"iS": 509677,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/assets/Projects/SunshineRanch/7.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"q": 100
-		},
-	"/assets/Projects/SunshineRanch/8.jpg": {
-		"ft": 16384,
-		"iS": 498900,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/assets/Projects/SunshineRanch/8.jpg",
->>>>>>> origin/main
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-<<<<<<< HEAD
 	"/assets/Projects/Sunshine Ranch/5.jpg": {
 		"ft": 16384,
 		"iS": 191841,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/assets/Projects/Sunshine Ranch/5.jpg",
-=======
-	"/assets/Projects/SunshineRanch/9.jpg": {
-		"ft": 16384,
-		"iS": 479874,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/assets/Projects/SunshineRanch/9.jpg",
->>>>>>> origin/main
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-<<<<<<< HEAD
 	"/assets/Projects/Sunshine Ranch/6.jpg": {
 		"ft": 16384,
 		"iS": 1579952,
@@ -2295,22 +1414,11 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
-=======
-	"/assets/Projects/SunshineRanch/thumbnail.jpg": {
-		"ft": 16384,
-		"iS": 604380,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/assets/Projects/SunshineRanch/thumbnail.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
->>>>>>> origin/main
 		"q": 100
 		},
 	"/assets/vertical.jpg": {
 		"ft": 16384,
-		"iS": 132,
+		"iS": 2023991,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/assets/vertical.jpg",
@@ -2399,16 +1507,11 @@
 		"oAP": "/projects/riverbend.html",
 		"oF": 0
 		},
-<<<<<<< HEAD
 	"/projects/Riverdale.html": {
-=======
-	"/projects/SagebrushLodge.html": {
->>>>>>> origin/main
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-<<<<<<< HEAD
 		"oAP": "/projects/Riverdale.html",
 		"oF": 0
 		},
@@ -2464,81 +1567,10 @@
 		"ft": 65536,
 		"oA": 1,
 		"oAP": "/build/styles/sections",
-=======
-		"oAP": "/projects/SagebrushLodge.html",
 		"oF": 0
-		},
-	"/projects/ShingleStyleRiverdale.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/projects/ShingleStyleRiverdale.html",
-		"oF": 0
-		},
-	"/projects/SunshineRanch.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/projects/SunshineRanch.html",
->>>>>>> origin/main
-		"oF": 0
-		},
-	"/README.md": {
-		"cB": 0,
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/README.html",
-		"oF": 0,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 0,
-		"uCM": 0
-		},
-	"/scripts/header.js": {
-		"bF": 0,
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "/scripts/header-min.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
-	"/scripts/homepage.js": {
-		"bF": 0,
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "/scripts/homepage-min.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
-	"/scripts/project.js": {
-		"bF": 0,
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "/scripts/project-min.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
 		},
 	"/styles/sections/about.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
 		"ec": 1,
@@ -2547,11 +1579,11 @@
 		"oA": 1,
 		"oAP": "/styles/sections/about.css",
 		"oF": 0,
-		"oS": 0,
-		"sct": 0
+		"oS": 1,
+		"sct": 1
 		},
 	"/styles/sections/contact.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
 		"ec": 1,
@@ -2560,11 +1592,11 @@
 		"oA": 1,
 		"oAP": "/styles/sections/contact.css",
 		"oF": 0,
-		"oS": 0,
-		"sct": 0
+		"oS": 1,
+		"sct": 1
 		},
 	"/styles/sections/footer.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
 		"ec": 1,
@@ -2573,8 +1605,8 @@
 		"oA": 1,
 		"oAP": "/styles/sections/footer.css",
 		"oF": 0,
-		"oS": 0,
-		"sct": 0
+		"oS": 1,
+		"sct": 1
 		},
 	"/styles/sections/footer2.scss": {
 		"aP": 1,
@@ -2590,7 +1622,7 @@
 		"sct": 1
 		},
 	"/styles/sections/header-logo.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
 		"ec": 1,
@@ -2599,11 +1631,11 @@
 		"oA": 1,
 		"oAP": "/styles/sections/header-logo.css",
 		"oF": 0,
-		"oS": 0,
-		"sct": 0
+		"oS": 1,
+		"sct": 1
 		},
 	"/styles/sections/header.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
 		"ec": 1,
@@ -2612,8 +1644,8 @@
 		"oA": 1,
 		"oAP": "/styles/sections/header.css",
 		"oF": 0,
-		"oS": 0,
-		"sct": 0
+		"oS": 1,
+		"sct": 1
 		},
 	"/styles/sections/header2.scss": {
 		"aP": 1,
@@ -2629,7 +1661,7 @@
 		"sct": 1
 		},
 	"/styles/sections/hero.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
 		"ec": 1,
@@ -2638,11 +1670,11 @@
 		"oA": 1,
 		"oAP": "/styles/sections/hero.css",
 		"oF": 0,
-		"oS": 0,
-		"sct": 0
+		"oS": 1,
+		"sct": 1
 		},
 	"/styles/sections/homepage.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
 		"ec": 1,
@@ -2651,11 +1683,11 @@
 		"oA": 1,
 		"oAP": "/styles/sections/homepage.css",
 		"oF": 0,
-		"oS": 0,
-		"sct": 0
+		"oS": 1,
+		"sct": 1
 		},
 	"/styles/sections/intro.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
 		"ec": 1,
@@ -2664,11 +1696,11 @@
 		"oA": 1,
 		"oAP": "/styles/sections/intro.css",
 		"oF": 0,
-		"oS": 0,
-		"sct": 0
+		"oS": 1,
+		"sct": 1
 		},
 	"/styles/sections/project-detail.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
 		"ec": 1,
@@ -2677,11 +1709,11 @@
 		"oA": 1,
 		"oAP": "/styles/sections/project-detail.css",
 		"oF": 0,
-		"oS": 0,
-		"sct": 0
+		"oS": 1,
+		"sct": 1
 		},
 	"/styles/sections/projects.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
 		"ec": 1,
@@ -2690,11 +1722,17 @@
 		"oA": 1,
 		"oAP": "/styles/sections/projects.css",
 		"oF": 0,
-		"oS": 0,
-		"sct": 0
+		"oS": 1,
+		"sct": 1
+		},
+	"/styles/settings": {
+		"ft": 65536,
+		"oA": 1,
+		"oAP": "/build/styles/settings",
+		"oF": 0
 		},
 	"/styles/settings/breakpoints.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
 		"ec": 1,
@@ -2703,11 +1741,11 @@
 		"oA": 1,
 		"oAP": "/styles/settings/breakpoints.css",
 		"oF": 0,
-		"oS": 0,
-		"sct": 0
+		"oS": 1,
+		"sct": 1
 		},
 	"/styles/settings/colors.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
 		"ec": 1,
@@ -2716,11 +1754,11 @@
 		"oA": 1,
 		"oAP": "/styles/settings/colors.css",
 		"oF": 0,
-		"oS": 0,
-		"sct": 0
+		"oS": 1,
+		"sct": 1
 		},
 	"/styles/settings/defaults.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
 		"ec": 1,
@@ -2729,11 +1767,11 @@
 		"oA": 1,
 		"oAP": "/styles/settings/defaults.css",
 		"oF": 0,
-		"oS": 0,
-		"sct": 0
+		"oS": 1,
+		"sct": 1
 		},
 	"/styles/settings/reset.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
 		"ec": 1,
@@ -2742,11 +1780,11 @@
 		"oA": 1,
 		"oAP": "/styles/settings/reset.css",
 		"oF": 0,
-		"oS": 0,
-		"sct": 0
+		"oS": 1,
+		"sct": 1
 		},
 	"/styles/settings/typography.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
 		"ec": 1,
@@ -2755,8 +1793,8 @@
 		"oA": 1,
 		"oAP": "/styles/settings/typography.css",
 		"oF": 0,
-		"oS": 0,
-		"sct": 0
+		"oS": 1,
+		"sct": 1
 		},
 	"/styles/styles.css": {
 		"aP": 1,
@@ -2769,7 +1807,7 @@
 		"oS": 3
 		},
 	"/styles/styles.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
 		"ec": 1,
@@ -2778,13 +1816,8 @@
 		"oA": 0,
 		"oAP": "/styles/styles.css",
 		"oF": 0,
-<<<<<<< HEAD
 		"oS": 1,
 		"sct": 1
-=======
-		"oS": 0,
-		"sct": 0
->>>>>>> origin/main
 		}
 	},
 "hooks": [
@@ -2792,11 +1825,11 @@
 "manualImportLinks": {
 	},
 "projectAttributes": {
-	"creationDate": 637434689.68950903,
-	"displayValue": "ChabonArchitects",
-	"displayValueWasSetByUser": 0,
-	"iconImageName": "brackets_gray",
-	"iconImageWasSetByUser": 0
+	"creationDate": 600821890.89208698,
+	"displayValue": "ACA",
+	"displayValueWasSetByUser": 1,
+	"iconImageName": "brackets-unblue",
+	"iconImageWasSetByUser": 1
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
@@ -3238,7 +2271,7 @@
 	"esLintRules": {
 		"accessor-pairs": {
 			"active": 0,
-			"optionString": "{'setWithoutGet': true, 'getWithoutSet': false, 'enforceForClassMembers': true}"
+			"optionString": "{'setWithoutGet': true, 'getWithoutSet': false}"
 			},
 		"array-bracket-newline": {
 			"active": 0,
@@ -3286,7 +2319,7 @@
 			},
 		"camelcase": {
 			"active": 0,
-			"optionString": "{'properties': 'always', 'ignoreDestructuring': false, 'ignoreImports': false}"
+			"optionString": "{'properties': 'always', 'ignoreDestructuring': false}"
 			},
 		"capitalized-comments": {
 			"active": 0,
@@ -3314,7 +2347,7 @@
 			},
 		"computed-property-spacing": {
 			"active": 0,
-			"optionString": "'never', {'enforceForClassMembers': true}"
+			"optionString": "'never'"
 			},
 		"consistent-return": {
 			"active": 0,
@@ -3557,7 +2590,7 @@
 			"optionString": ""
 			},
 		"no-cond-assign": {
-			"active": 1,
+			"active": 0,
 			"optionString": "'except-parens'"
 			},
 		"no-confusing-arrow": {
@@ -3565,7 +2598,7 @@
 			"optionString": "{'allowParens': true}"
 			},
 		"no-console": {
-			"active": 1,
+			"active": 0,
 			"optionString": "{'allow': ['warn', 'error']}"
 			},
 		"no-const-assign": {
@@ -3670,7 +2703,7 @@
 			},
 		"no-extra-parens": {
 			"active": 0,
-			"optionString": "'all', {'conditionalAssign': false, 'returnAssign': false, 'nestedBinaryExpressions': false, 'ignoreJSX': 'none', 'enforceForArrowConditionals': false, 'enforceForSequenceExpressions': false, 'enforceForNewInMemberExpressions': false}"
+			"optionString": "'all', {'conditionalAssign': false, 'returnAssign': false, 'nestedBinaryExpressions': false, 'ignoreJSX': 'none', 'enforceForArrowConditionals': false}"
 			},
 		"no-extra-semi": {
 			"active": 1,
@@ -3722,7 +2755,7 @@
 			},
 		"no-invalid-this": {
 			"active": 0,
-			"optionString": "{'capIsConstructor': true}"
+			"optionString": ""
 			},
 		"no-irregular-whitespace": {
 			"active": 1,
@@ -3978,7 +3011,7 @@
 			},
 		"no-underscore-dangle": {
 			"active": 0,
-			"optionString": "{'allow': [], 'allowAfterThis': false, 'allowAfterSuper': false, 'allowAfterThisConstructor': false, 'enforceInMethodNames': false}"
+			"optionString": "{'allow': [], 'allowAfterThis': false, 'allowAfterSuper': false, 'enforceInMethodNames': false}"
 			},
 		"no-unexpected-multiline": {
 			"active": 1,
@@ -4002,7 +3035,7 @@
 			},
 		"no-unsafe-negation": {
 			"active": 1,
-			"optionString": "{'enforceForOrderingRelations': false}"
+			"optionString": ""
 			},
 		"no-unused-expressions": {
 			"active": 0,
@@ -4034,7 +3067,7 @@
 			},
 		"no-useless-computed-key": {
 			"active": 0,
-			"optionString": "{'enforceForClassMembers': false}"
+			"optionString": ""
 			},
 		"no-useless-concat": {
 			"active": 0,
@@ -4062,7 +3095,7 @@
 			},
 		"no-void": {
 			"active": 0,
-			"optionString": "{'allowAsStatement': false}"
+			"optionString": ""
 			},
 		"no-warning-comments": {
 			"active": 0,
@@ -4278,7 +3311,7 @@
 			},
 		"use-isnan": {
 			"active": 1,
-			"optionString": "{'enforceForSwitchCase': true, 'enforceForIndexOf': false}"
+			"optionString": ""
 			},
 		"valid-jsdoc": {
 			"active": 0,
@@ -4832,12 +3865,12 @@
 		"autoOutputPathReplace1": "sass",
 		"autoOutputPathReplace2": "css",
 		"autoOutputPathStyle": 0,
-		"compilerType": 0,
+		"compilerType": 1,
 		"createSourceMap": 0,
 		"decimalPrecision": 10,
 		"emitCharset": 1,
-		"outputStyle": 0,
-		"shouldRunAutoprefixer": 0,
+		"outputStyle": 1,
+		"shouldRunAutoprefixer": 1,
 		"shouldRunBless": 0
 		},
 	"languageDefaultsSLIM": {
@@ -4906,7 +3939,7 @@
 	"rollupExternals": "",
 	"rollupReplacements": "process.env.NODE_ENV:::$NODE_ENV,,,ENVIRONMENT:::$NODE_ENV",
 	"rollupTreeshakingEnabled": 1,
-	"skippedFoldersString": "log, _logs, logs, _cache, cache, .idea, /storage/framework/sessions, node_modules",
+	"skippedFoldersString": "/storage/framework/sessions, node_modules, _logs, logs, log, .idea, _cache, cache, /styles/sections, /styles/settings, /styles/helpers, /scripts, /styles/fx",
 	"sourceFolderName": "source",
 	"susyVersion": 3,
 	"tsAllowSyntheticDefaultImports": 0,
