@@ -6,21 +6,35 @@
     flex-direction: column;
     justify-content: center;
     text-transform: uppercase;
-    height: 48px;
-   
+    // height: 48px;
+    &:hover {
+      color: $blue;
+    }
+  }
+
+
+    .header-logo .logo-architects{
+      @include bp($sm) {
+        height: 24px;
+      }
+    }
+
+      
 
     .logo-chabon {
       font-size: 20px;
       @include bp($sm){
-        font-size: 24px;
+        font-size: 32px;
+        line-height: 1;
+
       }
     }
 
     .logo-architects {
       font-size: 13px;
-      letter-spacing: .5px;
+      letter-spacing: .25px;
       @include bp($sm){
-        font-size: 16px
+        font-size: 22px;
       }
     }
-  }
+  

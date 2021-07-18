@@ -13,7 +13,9 @@ header {
   }
 
   nav{
-    height: 16px;
+    // height: 16px;
+    display: flex;
+    // font-weight: 200;
     a + a {
       margin-left: 8px;
       @include bp($xs){
@@ -32,10 +34,18 @@ header {
   }
 }
 
+a{
+  line-height: 1;
+  display: inline-block;
+    // height: 16px;
+
+}
+
 .header-content {
   padding: 8px;
   display: flex;
   justify-content: space-between;
+  align-items: flex-start;
   margin: auto;
   max-width: 1440px;
   @include bp($xs){

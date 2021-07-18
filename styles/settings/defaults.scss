@@ -29,11 +29,23 @@ section{
 
 .section-header {
   position: sticky;
-  top: 80px;
+  top: 64px;
   padding-top: 16px;
   background-color: $white;
   @include bp($sm) {
-    top: 112px;
+    top: 120px;
     padding-top: 32px;
   }
 }
+
+
+// .fade {
+//   h5, img{
+//     opacity: 0;
+//     transition: opacity 1s;
+//   }
+
+//   .loaded {
+//     opacity: 1;
+//   }
+// }

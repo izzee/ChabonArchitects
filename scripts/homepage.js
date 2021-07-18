@@ -52,7 +52,7 @@ document.addEventListener('DOMContentLoaded', () => {
 document.addEventListener('readystatechange', event => { 
   if (event.target.readyState === "complete") {
     body.classList.remove('loading');
-    window.setInterval(slideshow, 2000);
+    window.setInterval(slideshow, 2500);
   }
 });
 
